@@ -1,6 +1,6 @@
 # Node js Server Application with Mysql Database Using Sequelize.
 
-## installation
+## Installation
 
 - Clone this repo first.
 - cd into it and write `npm install` in your terminal (make sure node js is install in your syatem).
